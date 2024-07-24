@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="70c11915-bbff-4388-a31e-493003dbea40" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <lom:lom>
+            <lom:general>
+                <lom:title>
+                    <lom:langstring>Session 1 (All)</lom:langstring>
+                </lom:title>
+            </lom:general>
+        </lom:lom>
+    </metadata>
+    <organizations default="afe5ff8a-1606-11ef-a38a-6665a34acc07_org">
+        <organization identifier="afe5ff8a-1606-11ef-a38a-6665a34acc07_org">
+            <title>Session 1 (All)</title>
+            <item identifier="afe5ff8a-1606-11ef-a38a-6665a34acc07" identifierref="resource">
+                <title>Session 1 (All)</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+            <file href="res/js/fast-average-color.umd.js"></file>
+            <file href="res/js/focus-visible-5.2.0.iife.js"></file>
+            <file href="res/js/highlight.umd.js"></file>
+            <file href="res/js/hyperHtml.iife.js"></file>
+            <file href="res/js/immer-6.0.9.umd.js"></file>
+            <file href="res/js/messageFormat.umd.js"></file>
+            <file href="res/js/output.min.js"></file>
+            <file href="res/js/protobufjs-6.8.8.umd.js"></file>
+            <file href="res/js/react-18.2.0.umd.js"></file>
+            <file href="res/js/react-dom-18.2.0.umd.js"></file>
+            <file href="res/js/reatom.umd.js"></file>
+            <file href="res/js/resizeobserver.iife.js"></file>
+            <file href="res/js/runtypes.iife.js"></file>
+            <file href="res/styles/bundle.css"></file>
+            <file href="res/styles/fonts/comfortaa-bold_8c22cd3d.woff2"></file>
+            <file href="res/styles/fonts/comfortaa-regular_e762e991.woff2"></file>
+            <file href="res/styles/fonts/cormorant-infant-bold-italic_66276801.woff2"></file>
+            <file href="res/styles/fonts/cormorant-infant-bold_e7e27af5.woff2"></file>
+            <file href="res/styles/fonts/cormorant-infant-regular-italic_2fd32cfe.woff2"></file>
+            <file href="res/styles/fonts/cormorant-infant-regular_64e16e95.woff2"></file>
+            <file href="res/styles/fonts/cormorant-infant-semiBold-italic_29ef45fb.woff2"></file>
+            <file href="res/styles/fonts/cormorant-infant-semiBold_8237228f.woff2"></file>
+            <file href="res/styles/fonts/exo2-bold-italic_7ed7f4ef.woff"></file>
+            <file href="res/styles/fonts/exo2-bold_d01f6bc6.woff"></file>
+            <file href="res/styles/fonts/exo2-regular-italic_6307918b.woff"></file>
+            <file href="res/styles/fonts/exo2-regular_ce3e52af.woff"></file>
+            <file href="res/styles/fonts/ibm-plex-sans-bold-italic_e6a65a7f.woff"></file>
+            <file href="res/styles/fonts/ibm-plex-sans-bold_d816cbf6.woff"></file>
+            <file href="res/styles/fonts/ibm-plex-sans-regular-italic_eff7e186.woff"></file>
+            <file href="res/styles/fonts/ibm-plex-sans-regular_13e9c5f3.woff"></file>
+            <file href="res/styles/fonts/inter-bold-italic_ff1cc08a.woff"></file>
+            <file href="res/styles/fonts/inter-bold_597e61c.woff"></file>
+            <file href="res/styles/fonts/inter-regular-italic_b77f9637.woff"></file>
+            <file href="res/styles/fonts/inter-regular_c3b82243.woff"></file>
+            <file href="res/styles/fonts/inter-semiBold_20ddb7a3.woff"></file>
+            <file href="res/styles/fonts/jb-mono-bold-italic_75ca6e40.woff"></file>
+            <file href="res/styles/fonts/jb-mono-bold_98303ebd.woff"></file>
+            <file href="res/styles/fonts/jb-mono-regular-italic_d49a26b5.woff"></file>
+            <file href="res/styles/fonts/jb-mono-regular_8c33f3c.woff"></file>
+            <file href="res/styles/fonts/lato-bold-italic_d08dd84b.woff"></file>
+            <file href="res/styles/fonts/lato-bold_68d0b594.woff"></file>
+            <file href="res/styles/fonts/lato-regular-italic_21674cc1.woff"></file>
+            <file href="res/styles/fonts/lato-regular_2b0f57d9.woff"></file>
+            <file href="res/styles/fonts/lato-semiBold_c203fde4.woff"></file>
+            <file href="res/styles/fonts/merriweather-bold-italic_88e1bb21.woff"></file>
+            <file href="res/styles/fonts/merriweather-bold_9df857c.woff"></file>
+            <file href="res/styles/fonts/merriweather-regular-italic_d70ea68.woff"></file>
+            <file href="res/styles/fonts/merriweather-regular_e5e2fb4d.woff"></file>
+            <file href="res/styles/fonts/montserrat-bold-italic_cf94907a.woff"></file>
+            <file href="res/styles/fonts/montserrat-bold_e5448602.woff"></file>
+            <file href="res/styles/fonts/montserrat-regular-italic_b849a2d9.woff"></file>
+            <file href="res/styles/fonts/montserrat-regular_a90ced40.woff"></file>
+            <file href="res/styles/fonts/nickainley-regular_f687aed5.woff"></file>
+            <file href="res/styles/fonts/noto-sans-bold-italic_d600789d.woff2"></file>
+            <file href="res/styles/fonts/noto-sans-bold_cb9e2af9.woff2"></file>
+            <file href="res/styles/fonts/noto-sans-regular-italic_a46a426.woff2"></file>
+            <file href="res/styles/fonts/noto-sans-regular_e5048072.woff2"></file>
+            <file href="res/styles/fonts/nunito-bold-italic_776c0982.woff"></file>
+            <file href="res/styles/fonts/nunito-bold_a886fa1d.woff"></file>
+            <file href="res/styles/fonts/nunito-regular-italic_909a73f7.woff"></file>
+            <file href="res/styles/fonts/nunito-regular_ad799529.woff"></file>
+            <file href="res/styles/fonts/nunito-sans-bold-italic_426b3cdd.woff"></file>
+            <file href="res/styles/fonts/nunito-sans-bold_bf471a3b.woff"></file>
+            <file href="res/styles/fonts/nunito-sans-regular-italic_64e8cf45.woff"></file>
+            <file href="res/styles/fonts/nunito-sans-regular_599e571c.woff"></file>
+            <file href="res/styles/fonts/nunito-semiBold-italic_d6c239a0.woff"></file>
+            <file href="res/styles/fonts/nunito-semiBold_bccb6bf4.woff"></file>
+            <file href="res/styles/fonts/open-sans-bold-italic_f1f1be54.woff"></file>
+            <file href="res/styles/fonts/open-sans-bold_65ff2130.woff"></file>
+            <file href="res/styles/fonts/open-sans-regular-italic_1553d2a8.woff"></file>
+            <file href="res/styles/fonts/open-sans-regular_cb003b1c.woff"></file>
+            <file href="res/styles/fonts/playfair-display-bold-italic_a66894d8.woff2"></file>
+            <file href="res/styles/fonts/playfair-display-bold_9f126113.woff2"></file>
+            <file href="res/styles/fonts/playfair-display-regular-italic_2a217778.woff2"></file>
+            <file href="res/styles/fonts/playfair-display-regular_45be0e9b.woff2"></file>
+            <file href="res/styles/fonts/pt-serif-bold-italic_807a29ca.woff"></file>
+            <file href="res/styles/fonts/pt-serif-bold_f3bbd73e.woff"></file>
+            <file href="res/styles/fonts/pt-serif-regular-italic_856535d2.woff"></file>
+            <file href="res/styles/fonts/pt-serif-regular_695cac58.woff"></file>
+            <file href="res/styles/fonts/raleway-bold-italic_38108c3b.woff"></file>
+            <file href="res/styles/fonts/raleway-bold_17dd9030.woff"></file>
+            <file href="res/styles/fonts/raleway-regular-italic_5acba215.woff"></file>
+            <file href="res/styles/fonts/raleway-regular_7272e585.woff"></file>
+            <file href="res/styles/fonts/roboto-bold-italic_7dac7f52.woff"></file>
+            <file href="res/styles/fonts/roboto-bold_369deb7a.woff"></file>
+            <file href="res/styles/fonts/roboto-regular-italic_9a05cbfc.woff"></file>
+            <file href="res/styles/fonts/roboto-regular_996ef2d0.woff"></file>
+            <file href="res/styles/fonts/roboto-slab-bold_5bddb1f7.woff"></file>
+            <file href="res/styles/fonts/roboto-slab-regular_6208252a.woff"></file>
+            <file href="res/styles/res/FallbackTile_88eb17b.svg"></file>
+            <file href="res/styles/res/arrow-icon-left_9424b54a.svg"></file>
+            <file href="res/styles/res/arrow-icon-right_4bfe2449.svg"></file>
+            <file href="res/styles/res/default-background-image_5229f77.svg"></file>
+            <file href="res/styles/res/watermark-logo_9d0cfd7e.svg"></file>
+            <file href="res/unsupportedBrowser/fonts/common-fonts-inter.css"></file>
+            <file href="res/unsupportedBrowser/fonts/common-fonts.css"></file>
+            <file href="res/unsupportedBrowser/fonts/inter/inter-v13-cyrillic_latin_latin-ext-500.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/inter/inter-v13-cyrillic_latin_latin-ext-700.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/inter/inter-v13-cyrillic_latin_latin-ext-regular.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto/roboto-v29-latin-ext_latin_cyrillic-500.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto/roboto-v29-latin-ext_latin_cyrillic-700.woff2"></file>
+            <file href="res/unsupportedBrowser/fonts/roboto/roboto-v29-latin-ext_latin_cyrillic-regular.woff2"></file>
+            <file href="res/unsupportedBrowser/unsupported-browser.html"></file>
+            <file href="res/unsupportedBrowser/unsupported-browser.js"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Chrome.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Edge.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Firefox.png"></file>
+            <file href="res/unsupportedBrowser/unsupportedBrowserImages/Safari.png"></file>
+            <file href="res/goodbye.html"></file>
+            <file href="res/index.html"></file>
+            <file href="res/connectors/scorm.min.js"></file>
+            <file href="res/lng/en-US/messages.json"></file>
+            <file href="res/data-1.json"></file>
+            <file href="res/data/isleu-864046/986ec075-f726-11ee-8370-5ef30429656f.mp4"></file>
+            <file href="res/data/isleu-864046/7d0d749c-f751-11ee-a8d8-5ef30429656f.jpg"></file>
+            <file href="res/data/isleu-864046/1e3e7404-160a-11ef-825f-625269ba44ba.png"></file>
+            <file href="res/data/isleu-864046/2dd24bcd-160a-11ef-a3ab-6665a34acc07.png"></file>
+            <file href="res/data/isleu-864046/52e8f010-197b-11ef-a5e4-d20171ec5387.png"></file>
+            <file href="res/data/isleu-864046/d2ac1f8f-f730-11ee-87fd-5ef30429656f.jpg"></file>
+            <file href="res/data/isleu-864046/4be8c280-f751-11ee-a8d8-5ef30429656f.mp4"></file>
+            <file href="res/data/isleu-864046/19f1e1ca-f758-11ee-ad45-5ef30429656f.jpg"></file>
+            <file href="res/data/isleu-864046/4d804a74-f752-11ee-a9ba-5ef30429656f.jpg"></file>
+            <file href="res/data/isleu-864046/a2cae951-f754-11ee-a375-8a7bf928460c.jpg"></file>
+            <file href="res/data/isleu-864046/1adcdaeb-f8dd-11ee-8439-5ec2022230c7.gif"></file>
+            <file href="res/data/isleu-864046/f7417c4f-1d8b-11ef-88d6-a28a5e22f251.png"></file>
+            <file href="res/data/isleu-864046/2e61d93b-f8e2-11ee-845a-5ec2022230c7.jpg"></file>
+            <file href="res/data/isleu-864046/558df426-f8e5-11ee-8421-46e903e8f3e1.png"></file>
+            <file href="res/data/isleu-864046/25346e36-f8e5-11ee-8421-46e903e8f3e1.jpg"></file>
+        </resource>
+    </resources>
+</manifest>
